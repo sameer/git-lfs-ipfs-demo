@@ -5,7 +5,7 @@ The demo repository for [git-lfs-ipfs](https://github.com/sameer/git-lfs-ipfs) w
 ## Expected Output
 
 ### cat.jpg
-![cat.jpg](https://ipfs.io/ipfs/QmW2WQi7j6c7UgJTarActp7tDNikE4B2qXtFCfLPdsgaTQ/cat.jpg)
+[cat.jpg](https://ipfs.io/ipfs/QmW2WQi7j6c7UgJTarActp7tDNikE4B2qXtFCfLPdsgaTQ/cat.jpg)
 
 ### hello-world.txt
 "hello world"
